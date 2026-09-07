@@ -10,7 +10,6 @@
 
 > **A curated collection of interactive AI experiences designed to make technology exciting, approachable, and memorable for PU students.**
 
-*Curated by **Bipin A***
 
 </div>
 
@@ -501,6 +500,6 @@ ai-experience-expo/
 
 **AI Experience Expo** · *Interactive projects for the next generation of creators*
 
-*Curated by **Bipin A***
+*Curated by **Tech Nexus***
 
 </div>
