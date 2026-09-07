@@ -500,6 +500,6 @@ ai-experience-expo/
 
 **AI Experience Expo** · *Interactive projects for the next generation of creators*
 
-*Curated by **Tech Nexus(Technical Club)***
+*Curated by **Tech Nexus (Technical Club)***
 
 </div>
